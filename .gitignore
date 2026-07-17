@@ -38,3 +38,7 @@ build-pack/
 # OS temporary files
 .DS_Store
 Thumbs.db
+
+# Expo build cache
+.expo/
+mobile/.expo/
